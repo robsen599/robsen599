@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi, I'm Robsen
 
-<!--
-**robsen599/robsen599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build backend systems with clarity, gratitude, and expressive documentation.  
+Every repo is a reflection of my journey—technical mastery meets spiritual legacy.
 
-Here are some ideas to get you started:
+🧠 ALX Scholar | 🛠️ Python, SQL, Git | 🕯️ Faith-driven coder  
+🌐 [LinkedIn](https://linkedin.com/in/yourusername)  
+📜 Documenting legacy through branded workflows and poetic READMEs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 What I'm Working On
+- Checker-proof ALX assignments with zero-risk workflows
+- Branded backend schemas that reflect clarity and purpose
+- Expressive documentation that blends code and calling
+
+## 🌱 What I'm Learning
+- Advanced MySQL troubleshooting and directory discipline
+- Spiritual integration in technical storytelling
+- Rubric-aligned project refinement
+
+## 💬 Ask Me About
+- Backend engineering with expressive documentation
+- GitHub branding and poetic README writing
+- Faith-infused technical workflows
+
+## 📫 How to Reach Me
+- LinkedIn: [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
+- GitHub: [github.com/robsen599](https://github.com/robsen599)
+
+---
+
+> “Code is my craft. Documentation is my devotion. Every commit is a prayer of progress.” 🙏
+
